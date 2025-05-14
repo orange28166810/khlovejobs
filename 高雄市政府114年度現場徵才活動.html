@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<title>樂業高雄 幸福融融_高雄市政府114年度現場徵才活動</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="monitor-signature" content="monitor:player:html5">
+	<meta name="keywords" content="" />
+	<meta name="og:image" content="files/shot.png" />
+	<meta property="og:image" content="files/shot.png" />
+	<meta property="og:title" content="樂業高雄 幸福融融_高雄市政府114年度現場徵才活動" />
+	<meta property="og:description" content="" />
+	<meta name="Description" content="">
+	<link rel="image_src" href="files/shot.png" />
+	<meta name="Generator" content="FlipPDFPlus for win v7.2.4 at https://www.flipbuilder.com" />
+  <!-- <link rel="stylesheet" href="style/style.css" /> -->
+	<!-- <link rel="stylesheet" href="style/hiSlider2.min.css" /> -->
+  <!-- <link rel="stylesheet" href="style/FlipBookPlugins.min.css" /> -->
+	<link rel="shortcut icon" href="files/extfile/htmlIcon.png" />
+	
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+	<style>
+		html {width: 100%;height: 100%;left: 0;top: 0;margin: 0;padding: 0;position: fixed;}
+		body {width: 100%;height: 100%;left: 0;top: 0;margin: 0;padding: 0;position: fixed;}
+	</style>
+</head>
+
+<body>
+  
+	<div id="tmpLoading" style="width: 100%; height: 100%; position: absolute; z-index: -2;background:#323232;"></div>
+	<!-- <script src="javascript/jquery-3.5.1.min.js"></script> -->
+	<script src="javascript/config.js"></script>
+	<script src="javascript/LoadingJS.js"></script>
+  <script src="javascript/resource_skeleton.js"></script>
+	<!-- <script type="text/javascript" src="javascript/deString.js"></script> -->
+	<!-- <script type="text/javascript" src="javascript/book.min.js"></script> -->
+	<!-- <script type="text/javascript" src="javascript/pageItems.min.js"></script> -->
+	<!-- <script type="text/javascript" src="javascript/main.min.js"></script> -->
+	<script type="text/javascript" src="javascript/editor.js"></script>
+  <script type="text/javascript" src="javascript/BookPreview.js"></script>
+	<script type="text/javascript" src="files/search/book_config.js"></script>
+	<script type="text/javascript">var sendvisitinfo = function (type, page) { };</script>
+	<!-- <script type="text/javascript" async src="javascript/FlipBookPlugins.min.js"></script> -->
+	<!-- <script type="text/javascript" defer src="javascript/flipHtml5.hiSlider2.min.js"></script> -->
+  <script type="text/javascript">
+		window.readerConfigLoaded = true;
+	</script>
+	
+	
+	<script src="javascript/pdf.js"></script>
+                <script>
+                    try {
+                        if (pdfjsLib) {
+                            pdfjsLib.GlobalWorkerOptions.workerSrc = "javascript/pdf.worker.js";
+                        }
+                    } catch (error) {
+                    }
+                </script>
+	
+  <noscript><div><hr/><ul><li><a href="files/basic-html/page1.html">Pages</a></li></ul><hr style="width:80%"/></div></noscript>
+
+</body>
+
+</html>
